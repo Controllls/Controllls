@@ -1,7 +1,5 @@
 ### 안녕하세요 👋
-백엔드 개발자를 희망하는 최종근 입니다
-
-
+필로우톡 백엔드 개발을 진행하고있습니다.
 
 <!--
 **Controllls/Controllls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
