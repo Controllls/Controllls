@@ -16,9 +16,11 @@
 <br/>
 <br/>
 
+<ul class='no_dot'>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=controls)](https://solved.ac/controls/)
-<br />
 ![Controllls's github stats](https://github-readme-stats.vercel.app/api?username=Controllls&show_icons=true)
+</ul>
+
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Controllls&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br />
