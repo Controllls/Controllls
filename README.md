@@ -23,7 +23,7 @@
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=Controllls&color=dark)](https://velog.io/@somm)
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Controllls&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Controllls&show_icons=true&theme=dark)
 <!--
 **Controllls/Controllls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
