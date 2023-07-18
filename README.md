@@ -19,11 +19,9 @@
   <br/>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Controllls&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=Controllls&color=dark)](https://velog.io/@somm)
-</div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Controllls&show_icons=true&theme=dark)
+![Controllls's github stats](https://github-readme-stats.vercel.app/api?username=Controllls&show_icons=true)
+
 <!--
 **Controllls/Controllls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
