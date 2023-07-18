@@ -12,7 +12,8 @@
 </li>
 <br/>
 <br/>
- 
+ [![Solved.ac
+Controllls](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
 #### :pencil2: Study log
  
   <br/>
