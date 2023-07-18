@@ -12,7 +12,12 @@
 </li>
 <br/>
 <br/>
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=controls)](https://solved.ac/controls/)
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj={controls})](https://solved.ac/{controls})
+
 #### :pencil2: Study log
  
   <br/>
