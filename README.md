@@ -1,5 +1,10 @@
 ### 안녕하세요 👋
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="http://DARK_IMAGE_URL.png">
+  <source media="(prefers-color-scheme: light)" srcset="http://LIGHT_IMAGE_URL.png">
+  <img alt="IMAGE" src="http://LIGHT_IMAGE_URL.png">
+</picture>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Controllls&show_icons=true&theme=radical)
 <!--
