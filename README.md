@@ -1,8 +1,4 @@
-### 안녕하세요 문제해결을 좋아하는 호기심많은 개발자 입니다
-
-####  :clipboard:Stack
-
-
+### JONGGEUN CHOI
 
 <br/>
 <br/>
