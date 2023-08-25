@@ -2,15 +2,6 @@
 
 ####  :clipboard:Stack
 
-<br/>
-
-<ul class='no_dot'>
-<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-<img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=Amazon aws&logoColor=white">
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">  
-</ul>
 
 
 <br/>
@@ -20,6 +11,15 @@
 ![Controllls's github stats](https://github-readme-stats.vercel.app/api?username=Controllls&show_icons=true)
 
 <br />
+<br/>
+
+<ul class='no_dot'>
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+<img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=Amazon aws&logoColor=white">
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">  
+</ul>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Controllls&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br />
