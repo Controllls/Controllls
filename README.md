@@ -9,7 +9,7 @@
 
 <br />
 <br/>
-# 💪Skills
+# Skills
 <br />
 
 <ul class='no_dot'>
