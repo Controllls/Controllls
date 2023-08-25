@@ -3,8 +3,8 @@
 <br/>
 <br/>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=controls)](https://solved.ac/controls/)
-![Controllls's github stats](https://github-readme-stats.vercel.app/api?username=Controllls&show_icons=true)
+
+|[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=controls)](https://solved.ac/controls/)|![Controllls's github stats](https://github-readme-stats.vercel.app/api?username=Controllls&show_icons=true)|
 
 <br />
 <br/>
